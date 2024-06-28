@@ -47,9 +47,9 @@ body {
     display: flex;
     align-items: center;
     color: #ffffff;
-    padding: 30px;
 }
 
 .checkbox-container input {
     margin-right: 40px;
+    aling-items: center;
 }
